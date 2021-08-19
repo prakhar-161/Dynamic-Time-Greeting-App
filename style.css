@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: #c7b3f5;
+    text-align: center;
+}
+
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: rgb(0, 0, 0,0.8);
+}
+
+i{
+    font-size: 5rem;
+}
+
+h1{
+    font-size: 3rem;
+    color: rgb(32, 27, 85);
+}
+
+button{
+    /* margin: 30px 50px 0px 50px */
+    font-size: 1.3em;
+    margin-top: 35px;
+    border-radius: 7.5px;
+    border: none;
+    box-shadow: 0 0 5px rgb(134, 102, 253);
+}
